@@ -71,7 +71,7 @@ function App() {
     <div className="min-h-screen bg-slate-100 dark:bg-slate-900 text-slate-900 dark:text-slate-100 transition-colors">
       <header className="sticky top-0 z-10 bg-white/80 dark:bg-slate-800/80 backdrop-blur border-b border-slate-200 dark:border-slate-700">
         <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h1 className="text-lg font-bold text-primary-600 dark:text-primary-400">CA DMV Study</h1>
+          <h1 className="text-lg font-bold text-primary-600 dark:text-primary-400">CA DMV Study for Kenpachi</h1>
           <button
             type="button"
             onClick={toggleDark}
